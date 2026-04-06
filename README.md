@@ -71,3 +71,8 @@ Dataset used: **Mall_Customers.csv**
 ```bash
 pip install -r requirements.txt
 python mall_customer_kmeans.py
+
+
+📌 Author
+
+Harshali Bhamare
